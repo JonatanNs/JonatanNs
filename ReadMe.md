@@ -1,4 +1,3 @@
-# About Me:
 Développeur passionné par le logiciel et les nouvelles technologies, <br>j’aime comprendre le pourquoi avant le comment et construire des solutions utiles et bien pensées.<br><br>Je m’adapte aux besoins du projet en me formant aux langages, Framework ou outils nécessaires.<br><br>En dehors du développement, je suis sportif, passionné de football et je pratique régulièrement la course à pied, <br>des disciplines qui m’aident à cultiver la persévérance, la discipline et l’esprit d’équipe. <br>Je m’intéresse également au monde de la tech et de la finance, <br>et à la manière dont l’innovation technologique transforme ces domaines.
 
 
