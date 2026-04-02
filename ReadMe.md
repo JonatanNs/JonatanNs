@@ -6,12 +6,19 @@ Développeur passionné par le logiciel et les nouvelles technologies, <br>j’a
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JonatanNs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JonatanNs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanNs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=JonatanNs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+
+![](https://nirzak-streak-stats.vercel.app/?user=JonatanNs&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanNs&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=JonatanNs&theme=darkhub&margin-w=10)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JonatanNs&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://visitcount.itsvg.in/api?id=JonatanNs&icon=0&color=0)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
