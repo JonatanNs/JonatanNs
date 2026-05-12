@@ -1,7 +1,12 @@
-Développeur passionné par le logiciel et les nouvelles technologies, j’aime comprendre le pourquoi avant le comment et construire des solutions utiles et bien pensées.
-Je m’adapte aux besoins du projet en me formant aux langages, Framework ou outils nécessaires.
-<br><br> En dehors du développement, je suis sportif, passionné de football et je pratique régulièrement la course à pied, des disciplines qui m’aident à cultiver la persévérance, la discipline et l’esprit d’équipe. 
-Je m’intéresse également au monde de la tech et de la finance, et à la manière dont l’innovation technologique transforme ces domaines.
+# Jonatan Ns - Développeur Full Stack
+Développeur full stack orienté Java/Angular, je m’intéresse particulièrement à la conception d’applications web robustes, à l’architecture logicielle et aux bonnes pratiques de développement.
+
+Je développe principalement avec Java, Spring Boot, Angular et SQL, en travaillant sur la création d’API REST, l’authentification avec Spring Security ainsi que la conception d’applications full stack structurées.
+
+J’ai également une appétence pour la stack Angular / NestJS, que j’apprécie pour le développement rapide d’applications modernes et de projets type SaaS, tout en conservant un fort intérêt pour les architectures Java Spring Boot / Angular davantage orientées projets d’entreprise et systèmes à grande échelle.
+
+Je porte également un intérêt aux environnements DevOps et cloud à travers des technologies et outils comme Docker, AWS, Git et les pipelines CI/CD. Curieux et autonome, j’aime comprendre le fonctionnement des technologies que j’utilise et monter progressivement en compétence sur des sujets comme les microservices, Kubernetes et les architectures modernes.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatan-nsualu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsualu.jonatan@gmail.com) 
 
