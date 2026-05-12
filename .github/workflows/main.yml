@@ -1,5 +1,9 @@
 name: Importation massive
 
+permissions:
+  issues: write
+  contents: read
+
 on: 
   workflow_dispatch: # Permet de lancer l'action manuellement avec un bouton
 
