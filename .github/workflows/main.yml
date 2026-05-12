@@ -13,5 +13,5 @@ jobs:
       - name: Issue Importer Action
         uses: dsanchezcr/issue-importer-action@v1.0.0
         with:
-          file_path: 'issue_milestone.csv' # Remplace par le nom de ton fichier CSV
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          file-path: 'issue_milestone.csv' # Remplace par le nom de ton fichier CSV
+          github-token: ${{ secrets.GITHUB_TOKEN }}
