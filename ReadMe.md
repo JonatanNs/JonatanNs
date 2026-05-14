@@ -1,5 +1,5 @@
 # Jonatan Ns - Développeur Full Stack
-Développeur full stack orienté Java/Angular, je m’intéresse particulièrement à la conception d’applications web robustes, à l’architecture logicielle et aux bonnes pratiques de développement.
+Je m’intéresse particulièrement à la conception d’applications web robustes, à l’architecture logicielle et aux bonnes pratiques de développement.
 
 Je développe principalement avec Java, Spring Boot, Angular et SQL, en travaillant sur la création d’API REST, l’authentification avec Spring Security ainsi que la conception d’applications full stack structurées.
 
