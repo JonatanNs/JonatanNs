@@ -1,11 +1,10 @@
 # Jonatan Ns - Développeur Full Stack
-Je m’intéresse particulièrement à la conception d’applications web robustes, à l’architecture logicielle et aux bonnes pratiques de développement.
+Développeur Full Stack passionné par la conception d'applications web robustes, l'architecture logicielle et les bonnes pratiques de développement.
+Je développe principalement avec Java, Spring Boot, Angular et PostgreSQL, en travaillant sur la création d'API REST sécurisées, l'authentification JWT via Spring Security et la conception d'applications full stack structurées.
 
-Je développe principalement avec Java, Spring Boot, Angular et SQL, en travaillant sur la création d’API REST, l’authentification avec Spring Security ainsi que la conception d’applications full stack structurées.
+Passionné par l'IA générative et l'automatisation, je suis en veille constante sur les LLMs, le prompt engineering et des outils comme n8n. Je m'intéresse également à Python et à son écosystème data (NumPy, Pandas, Scikit-learn), ainsi qu'aux architectures orientées IA appliquée.
 
-J’ai également une appétence pour la stack Angular / NestJS, que j’apprécie pour le développement rapide d’applications modernes et de projets type SaaS, tout en conservant un fort intérêt pour les architectures Java Spring Boot / Angular davantage orientées projets d’entreprise et systèmes à grande échelle.
-
-Je porte également un intérêt aux environnements DevOps et cloud à travers des technologies et outils comme Docker, AWS, Git et les pipelines CI/CD. Curieux et autonome, j’aime comprendre le fonctionnement des technologies que j’utilise et monter progressivement en compétence sur des sujets comme les microservices, Kubernetes et les architectures modernes.
+Je porte également un intérêt fort aux environnements DevOps et cloud à travers Docker, Git, CI/CD, Terraform et GCP. Curieux et autonome, j'aime comprendre le fonctionnement des technologies que j'utilise et monter progressivement en compétences sur des sujets comme les microservices, Kubernetes et les architectures cloud modernes.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatan-nsualu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsualu.jonatan@gmail.com) 
