@@ -2,7 +2,7 @@
 Développeur Full Stack passionné par la conception d'applications web robustes, l'architecture logicielle et les bonnes pratiques de développement.
 Je développe principalement avec Java, Spring Boot, Angular et PostgreSQL, en travaillant sur la création d'API REST sécurisées, l'authentification JWT via Spring Security et la conception d'applications full stack structurées.
 
-Passionné par l'IA générative et l'automatisation, je suis en veille constante sur les LLMs, le prompt engineering et des outils comme n8n. Je m'intéresse également à Python et à son écosystème data (NumPy, Pandas, Scikit-learn), ainsi qu'aux architectures orientées IA appliquée.
+Passionné par l'IA générative et l'automatisation, je suis en veille constante sur les LLMs, le prompt engineering et des outils comme N8N. Je m'intéresse également à Python et à son écosystème data (NumPy, Pandas, Scikit-learn), ainsi qu'aux architectures orientées IA appliquée.
 
 Je porte également un intérêt fort aux environnements DevOps et cloud à travers Docker, Git, CI/CD, Terraform et GCP. Curieux et autonome, j'aime comprendre le fonctionnement des technologies que j'utilise et monter progressivement en compétences sur des sujets comme les microservices, Kubernetes et les architectures cloud modernes.
 
