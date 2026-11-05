@@ -3,7 +3,7 @@
 Je conçois des applications web **robustes, sécurisées et évolutives**, de l’API au déploiement.
 Fin de titre **Concepteur Développeur d’Applications (Bac+3)** à l’ENI Rennes, je poursuis en **Bac+5 Expert en Architecture et Développement Logiciel**.
 
-🔎 **Recherche une alternance** (1 sem. école / 3 sem. entreprise) **ou un CDI** · Rennes · dès novembre 2026
+🔎 **Recherche une alternance** (2 sem. école / 4 sem. entreprise) **ou un CDI** · Rennes · dès novembre 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatan-nsualu/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsualu.jonatan@gmail.com)
 
